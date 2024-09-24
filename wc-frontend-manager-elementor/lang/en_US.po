@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WCFM - Elementor for WCFM Marketplace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-24 14:25+0530\n"
+"PO-Revision-Date: 2022-03-24 14:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr_e;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/class-wcfmem-dynamic_tags-manager.php:59
+msgid "WCFM"
+msgstr ""
+
+#: core/class-wcfmem-widgets-manager.php:75
+#: includes/documents/class-wcfmem-document-wcfmem-store.php:78
+msgid "Marketplace"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:17
+msgid "Activate the Elementor Plugin"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:18
+msgid ""
+"Before you can use all the features of WCFM - WooCommerce Multivendor "
+"Marketplace - Elementor, you need to activate the Elementor plugin first."
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:19
+msgid "Activate Now"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:25
+msgid "Install and Activate the Elementor Plugin"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:26
+msgid ""
+"Before you can use all the features of WCFM - WooCommerce Multivendor "
+"Marketplace - Elementor, you need to install and activate the Elementor "
+"plugin first."
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:27
+msgid "Install Elementor"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:41
+msgid "Activate the Elementor Pro Plugin"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:42
+msgid ""
+"Before you can use all the features of WCFM - WooCommerce Multivendor "
+"Marketplace - Elementor, you need to activate the Elementor Pro plugin first."
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:57
+#, php-format
+msgid ""
+"%sWooCommerce Multivendor Marketplace - Elementor is inactive.%s The %sWCFM "
+"Marketplace plugin%s must be active for the WooCommerce Multivendor "
+"Marketplace - Elementor to work. Please %sinstall & activate WCFM Marketplace"
+"%s"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:69
+#, php-format
+msgid ""
+"%sWooCommerce Multivendor Marketplace - Elementor is inactive.%s The "
+"%sWooCommerce Frontend Manager plugin%s must be active for the WooCommerce "
+"Multivendor Marketplace - Elementor to work. Please %sinstall & activate "
+"WooCommerce Frontend Manager%s"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:81
+#, php-format
+msgid ""
+"%sWooCommerce Multivendor Marketplace - Elementor is inactive.%s The "
+"%sWooCommerce plugin%s must be active for the WooCommerce Multivendor "
+"Marketplace - Elementor to work. Please %sinstall & activate WooCommerce%s"
+msgstr ""
+
+#: helpers/wcfmem-core-functions.php:92
+#, php-format
+msgid ""
+"%sWooCommerce Multivendor Marketplace - Elementor is inactive.%s The "
+"%sElementor plugin%s must be of version %s for the WooCommerce Multivendor "
+"Marketplace - Elementor to work."
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:22
+#: helpers/wcfmem-elementor-position-controls.php:30
+msgid "Position"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:33
+msgid "Static"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:34
+msgid "Relative"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:35
+msgid "Absolute"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:36
+msgid "Sticky"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:37
+msgid "Fixed"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:52
+msgid "Top"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:64
+#: includes/widgets/class-wcfmem-widget-storerating.php:185
+msgid "Right"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:76
+msgid "Bottom"
+msgstr ""
+
+#: helpers/wcfmem-elementor-position-controls.php:88
+#: includes/widgets/class-wcfmem-widget-storerating.php:177
+msgid "Left"
+msgstr ""
+
+#: includes/conditions/class-wcfmem-condition-store-condition.php:31
+#: includes/documents/class-wcfmem-document-wcfmem-store.php:67
+msgid "Store Page"
+msgstr ""
+
+#: includes/conditions/class-wcfmem-condition-store-condition.php:40
+msgid "All Stores"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storebanner.php:37
+#: includes/widgets/class-wcfmem-widget-storebanner.php:25
+msgid "Store Banner"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storebanner.php:98
+#: includes/dynamic-tags/class-wcfmem-tag-storelogo.php:98
+msgid "Fallback"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storechat.php:37
+#: includes/widgets/class-wcfmem-widget-storechat.php:27
+msgid "Store Chat Button"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storechat.php:73
+#: includes/dynamic-tags/class-wcfmem-tag-storevacationmessage.php:74
+msgid "Chat module is not active"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storechat.php:78
+msgid "Chat Now"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storedummyproducts.php:36
+msgid "Store Dummy Products"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storefollow.php:36
+#: includes/widgets/class-wcfmem-widget-storefollow.php:27
+msgid "Store Follow Button"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storefollow.php:74
+msgid "Follower module is not active"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storefollow.php:91
+#: includes/dynamic-tags/class-wcfmem-tag-storefollow.php:96
+#: includes/dynamic-tags/class-wcfmem-tag-storefollow.php:99
+msgid "Follow"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storefollow.php:93
+msgid "Un-follow"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storeinfo.php:27
+#: includes/widgets/class-wcfmem-widget-storeinfo.php:30
+#: includes/widgets/class-wcfmem-widget-storeinfo.php:90
+msgid "Store Info"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storeinfo.php:69
+msgid "Address"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storeinfo.php:79
+msgid "Email"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storeinfo.php:89
+msgid "Phone No"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storeinquiry.php:60
+#: includes/widgets/class-wcfmem-widget-storeinquiry.php:26
+msgid "Store Inquiry Button"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storeinquiry.php:74
+msgid "Inquiry module is not active"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storeinquiry.php:78
+#: includes/dynamic-tags/class-wcfmem-tag-storeinquiry.php:82
+msgid "Inquiry"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storelogo.php:37
+#: includes/widgets/class-wcfmem-widget-storelogo.php:29
+#: includes/widgets/class-wcfmem-widget-storelogo.php:80
+msgid "Store Logo"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storename.php:61
+#: includes/widgets/class-wcfmem-widget-storename.php:28
+msgid "Store Name"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storerating.php:36
+#: includes/widgets/class-wcfmem-widget-storerating.php:37
+msgid "Store Rating"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storesocial.php:52
+#: includes/widgets/class-wcfmem-widget-storesocial.php:33
+msgid "Store Social"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storetabs.php:27
+#: includes/widgets/class-wcfmem-widget-storetabs.php:24
+msgid "Store Tabs"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storevacationmessage.php:36
+#: includes/widgets/class-wcfmem-widget-storevacationmessage.php:27
+msgid "Store Vacation Message"
+msgstr ""
+
+#: includes/dynamic-tags/class-wcfmem-tag-storevacationmessage.php:87
+msgid "Store vacation message set in vendor dashboard will show here."
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storebanner.php:87
+msgid "Banner"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storechat.php:137
+#: includes/widgets/class-wcfmem-widget-storefollow.php:137
+#: includes/widgets/class-wcfmem-widget-storeinquiry.php:127
+msgid "No link required."
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storeinfo.php:99
+#: includes/widgets/class-wcfmem-widget-storeinfo.php:101
+#: includes/widgets/class-wcfmem-widget-storerating.php:205
+#: includes/widgets/class-wcfmem-widget-storevacationmessage.php:86
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storeinfo.php:108
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storeinfo.php:117
+#: includes/widgets/class-wcfmem-widget-storerating.php:137
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:102
+#: includes/widgets/class-wcfmem-widget-storerating.php:122
+msgid "Rating"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:109
+msgid "Rating Scale"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:153
+msgid "Unmarked Style"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:158
+msgid "Solid"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:162
+msgid "Outline"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:173
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:181
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:189
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:216
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:240
+msgid "Gap"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:260
+msgid "Stars"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:268
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:285
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:303
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storerating.php:315
+msgid "Unmarked Color"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storetabcontents.php:24
+msgid "Store Tab Contents"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storevacationmessage.php:87
+msgid "The Store is Temporarily Closed"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storevacationmessage.php:116
+msgid "Show Title"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storevacationmessage.php:120
+#: views/editor-templates/sortable-list-row.php:26
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/class-wcfmem-widget-storevacationmessage.php:121
+#: views/editor-templates/sortable-list-row.php:27
+msgid "Hide"
+msgstr ""
